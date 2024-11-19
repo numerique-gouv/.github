@@ -12,5 +12,5 @@ Et à la DINUM, notamment :
 - __Etalab : [github.com/etalab](https://github.com/etalab)__
 - __Etalab pour l'Intelligence Artificielle : [github.com/etalab-ia](https://github.com/etalab-ia)__
 - __La communauté des incubateurs de Services publics numériques : [github.com/betagouv](https://github.com/betagouv)__
-- __data.gouv.fr: [data.gouv.fr](https://github.com/datagouv)__
+- __data.gouv.fr: [github/data.gouv.fr](https://github.com/datagouv)__
 - __La mission logiciels libres : [github.com/codegouvfr](https://github.com/codegouvfr)__
