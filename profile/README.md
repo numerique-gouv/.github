@@ -9,7 +9,8 @@ __*Find the catalog of all French government repositories on [code.gouv.fr](http
 Et à la DINUM, notamment :  
 *And, at the DINUM in particular :*
 
-- __Etalab pour l'Intelligence Artificielle : [github.com/etalab-ia](https://github.com/etalab-ia)__
 - __Etalab : [github.com/etalab](https://github.com/etalab)__
-- __La mission logiciels libres : [github.com/codegouvfr](https://github.com/codegouvfr)__
+- __Etalab pour l'Intelligence Artificielle : [github.com/etalab-ia](https://github.com/etalab-ia)__
 - __La communauté des incubateurs de Services publics numériques : [github.com/betagouv](https://github.com/betagouv)__
+- __data.gouv.fr: [data.gouv.fr](https://github.com/datagouv)__
+- __La mission logiciels libres : [github.com/codegouvfr](https://github.com/codegouvfr)__
