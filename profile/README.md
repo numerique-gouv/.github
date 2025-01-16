@@ -14,3 +14,4 @@ Et à la DINUM, notamment :
 - __La communauté des incubateurs de Services publics numériques : [github.com/betagouv](https://github.com/betagouv)__
 - __data.gouv.fr : [github/data.gouv.fr](https://github.com/datagouv)__
 - __La mission logiciels libres : [github.com/codegouvfr](https://github.com/codegouvfr)__
+- __La Suite numérique : [github.com/suitenumerique](https://github.com/suitenumerique)__
